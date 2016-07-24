@@ -1,23 +1,23 @@
 body{
-    background-color:bisque;
+    background-color:#ff7070;
     margin: 0;
             }
     .menu{
-    background-color:aqua;}
+    background-color:#ff7070;}
 
      #header {
                 color:crimson;
                 
             }
         p{
-           color:orange
+           color:black
         }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #32bbd8;
+    background-color: white;
 }
 
 li {
